@@ -1,6 +1,9 @@
 # Taller-01.-Stakeholders-y-Materialidad-en-el-Sector-Web
-## Contenido del repositorio
+-- Autor: Daniel Jiménez Ramírez
+-- Profesor: Willman Acosta
+-- Asignatura: Sostenibilidad
 
+## Contenido del repositorio
 * **materialidad.xml** → 
 * **README.md** → Explicación del proyecto
 

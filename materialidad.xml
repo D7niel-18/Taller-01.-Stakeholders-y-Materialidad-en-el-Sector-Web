@@ -1,0 +1,24 @@
+<empresa_sostenible> <!-- Raiz -->
+    <stakeholders>  <!-- Lista de stakeholders -->
+        <stakeholder importancia="Alta">Clientes empresariales</stakeholder> <!-- Stakeholder con atributo de importancia -->
+        <stakeholder importancia="Alta">Empleados</stakeholder> <!-- Stakeholder con atributo de importancia -->
+        <stakeholder importancia="Muy Alta">Usuarios finales</stakeholder> <!-- Stakeholder con atributo de importancia -->
+    </stakeholders>
+    
+    <temas_materiales> <!-- Lista de temas materiales -->
+        <tema_material impacto="Ambiental"> <!-- Tema material con atributo de impacto -->
+            <titulo>Eficiencia energética del código</titulo> <!-- Título del tema -->
+            <descripcion>Optimización de código y hardware para reducir el consumo energético.</descripcion> <!-- Descripción del tema -->
+        </tema_material>
+        
+        <tema_material impacto="Social"> <!-- Tema material con atributo de impacto --> 
+            <titulo>Accesibilidad universal</titulo> <!-- Título del tema -->
+            <descripcion>Garantizar que cualquier persona (con y sin discapacidad) pueda acceder a internet y visitar webs sin ningún tipo de problema.</descripcion> <!-- Descripción del tema -->
+        </tema_material>
+        
+        <tema_material impacto="Gobernanza"> <!-- Tema material con atributo de impacto -->
+            <titulo>Privacidad de datos</titulo> <!-- Título del tema -->
+            <descripcion>Se encarga de proteger la información de los usuarios y cumplir con la ley de proteccion de datos.</descripcion> <!-- Descripción del tema -->
+        </tema_material>
+    </temas_materiales>
+</empresa_sostenible>
